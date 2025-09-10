@@ -12,9 +12,7 @@ L'application ne collecte **aucune donnée personnelle** et ne partage **aucune 
 ## 🔒 Politique de Confidentialité
 Vous pouvez consulter la politique de confidentialité complète en cliquant sur le lien ci-dessous :
 
-🔗 [Accéder à la politique de confidentialité](https://TON_NOM.github.io/NOM_DU_REPO/)
-
-> Remplace `TON_NOM` et `NOM_DU_REPO` par ton **nom d’utilisateur GitHub** et le **nom exact du repository**.
+🔗 [Accéder à la politique de confidentialité](https://Yohan-easy-code.github.io/privacy-policy/)
 
 ---
 
